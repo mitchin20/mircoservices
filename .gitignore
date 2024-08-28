@@ -13,7 +13,6 @@ node_modules/
 docker-compose.yml
 docker-compose.override.yml
 docker-compose.prod.yml
-production-specific configs
 
 # Logs
 logs/
