@@ -7,7 +7,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    res.send('Service Customer is running');
+    res.send('Service Customer is running locally');
 });
 
 app.listen(port, () => {
